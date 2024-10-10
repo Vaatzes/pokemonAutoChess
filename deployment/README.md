@@ -8,7 +8,7 @@ The guide goal is to show you how to deploy Pokemon Auto Chess in different prov
 ### Prerequisites
 
 - Minimum Javascript knowledge
-- Minimum Git knwolegdge
+- Minimum Git knowledge
 
 # Getting started
 
